@@ -1,0 +1,130 @@
+:root {
+    --main-color:#00ff32;
+}
+
+h1 {
+    color:red;
+}
+
+body {
+    background-color: chocolate;
+}
+
+h2 {
+    color:blueviolet;
+}
+
+h3 {
+    color:green;
+}
+
+h4 {
+    color:gold;
+}
+
+h5 {
+    color:slategray;
+}
+h6 {
+    color:lightseagreen;
+}
+.p1 {
+    color: var(--main-color);
+}
+.p2 {
+    color:mediumseagreen;
+}
+.p3 {
+    color:aqua;
+}
+.p4 {
+    color:firebrick;
+}
+.p5 {
+    color: var(--main-color);
+}
+#main {
+    color: var(--main-color);
+}
+
+button {
+    background:red;
+    color:cyan;
+    font-size: 22px;
+    padding: 4px 12px;
+    border-radius: 8px;
+    border: 1px solid blue;
+    cursor: pointer;
+}
+
+button:hover {
+    background:cyan;
+    color:red;
+}
+
+ol {
+    list-style-image: url(star.svg);
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.bg {
+    width: 70px;
+    background-color: gray;
+    padding: 5px;
+}
+
+.light {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 6px 0;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.one {
+    width: 80px;
+    height: 40px;
+    background-color: pink;
+    margin-left: 130px;
+    margin-top: 200px;
+}
+
+.sharik {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.banana {
+    background-color: yellow;
+    margin-left: 40px;
+}
+
+.klubnika {
+    background-color: red;
+    margin-top: -50px;
+}
+
+.kivi {
+    background-color: green;
+    margin-left: 80px;
+    margin-top: -100px;
+}
