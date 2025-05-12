@@ -1,2 +1,2 @@
 # my-website
-Этот вебсайт создан в юмористических целях и никого не хочет оскорбить
+This project is made for fun. Just like a joke.
